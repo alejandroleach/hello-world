@@ -9,3 +9,9 @@ C:\Users\sihk_000\documents\visual studio 2010\Projects\Hola mundo\Hola mundo\ob
 C:\Users\sihk_000\documents\visual studio 2010\Projects\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.pdb
 C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.exe
 C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.pdb
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.csprojResolveAssemblyReference.cache
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola_mundo.Form1.resources
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola_mundo.Properties.Resources.resources
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.csproj.GenerateResource.Cache
