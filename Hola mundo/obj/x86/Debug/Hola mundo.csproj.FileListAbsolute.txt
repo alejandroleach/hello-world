@@ -7,3 +7,5 @@ C:\Users\sihk_000\AppData\Local\Temporary Projects\Hola mundo\obj\x86\Debug\Hola
 C:\Users\sihk_000\AppData\Local\Temporary Projects\Hola mundo\obj\x86\Debug\Hola mundo.pdb
 C:\Users\sihk_000\documents\visual studio 2010\Projects\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.exe
 C:\Users\sihk_000\documents\visual studio 2010\Projects\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.pdb
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.exe
+C:\Users\sihk_000\Documents\Carpeta de Ale\Ejemplos Git\Hola mundo\Hola mundo\obj\x86\Debug\Hola mundo.pdb
