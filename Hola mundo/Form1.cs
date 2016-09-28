@@ -20,6 +20,8 @@ namespace Hola_mundo
         {
             label1.Text = "Bienvenido";
             button1.Text = "Comenzar";
+            label1.ForeColor = Color.Fuchsia;
+            label1.Text = label1.Text.ToUpper();
         }
 
     }
