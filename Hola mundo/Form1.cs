@@ -19,6 +19,7 @@ namespace Hola_mundo
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Bienvenido";
+            button1.Text = "Comenzar";
         }
 
     }
