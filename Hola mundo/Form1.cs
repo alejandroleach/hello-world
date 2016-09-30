@@ -24,6 +24,7 @@ namespace Hola_mundo
             label1.Text = label1.Text.ToUpper();
             label1.Text = Form1.DefaultBackColor.ToArgb().ToString();
             // comentario.
+            // segundo comenario :V
         }
 
     }
