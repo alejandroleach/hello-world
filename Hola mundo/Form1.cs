@@ -22,6 +22,8 @@ namespace Hola_mundo
             button1.Text = "Comenzar";
             label1.ForeColor = Color.Fuchsia;
             label1.Text = label1.Text.ToUpper();
+            label1.Text = Form1.DefaultBackColor.ToArgb().ToString();
+            // comentario.
         }
 
     }
